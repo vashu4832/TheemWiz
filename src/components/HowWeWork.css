@@ -1,0 +1,39 @@
+.left-side{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.left-side h5{
+    color: #EF6D58;
+}
+.left-side h3{
+    font-weight: 800;
+    font-size: 40px;
+    color: #391400;
+    line-height: 48px;
+}
+.left-side p{
+    color: #391400A3;
+}
+
+.right-side{
+    margin-bottom: 100px;
+}
+.master h1{
+    font-weight: 800;
+    font-size: 72px;
+    line-height: 80px;
+    letter-spacing: -2px;
+    color: #391400;
+    display: inline-block;
+    margin-top: 40px;
+}
+
+.master h4{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    color: #391400;
+    margin-left: 75px;
+    display: inline-block;
+    margin-top: -20px !important;
+}

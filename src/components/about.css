@@ -1,0 +1,100 @@
+.img-main {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  padding-bottom: 5rem;
+}
+
+.logo {
+  margin-right: 80px;
+  margin-left: 80px;
+}
+
+.table {
+  width: 30%;
+  margin-left: 40px;
+  margin-top: 150px;
+  position: absolute;
+  background-image: url("assets/cloud.png");
+  background-size: 200px 150px;
+  background-repeat: no-repeat;
+}
+
+.color-block {
+  margin-top: 20px;
+  margin-left: 200px;
+  position: absolute;
+}
+
+.images {
+  width: 400px;
+  height: 300px;
+  background-color: #f5ded1;
+  display: flex;
+  margin-left: 300px;
+  margin-bottom: 400px;
+}
+
+.cloud {
+  position: absolute;
+  height: 110%;
+  width: 200%;
+  margin-top: -500px;
+  margin-left: 20px;
+  rotate: 15deg;
+}
+
+.about {
+  margin-left: 200px;
+  margin-top: 70px;
+  color: #ef6d58;
+  font-weight: 400;
+}
+
+.exp {
+  margin-left: 200px;
+  margin-top: 30px;
+  font-weight: 800;
+  font-size: 56px;
+  color: #391400;
+}
+
+.desc {
+  font-weight: 400px;
+  font-size: 20px;
+  margin-left: 200px;
+  margin-top: 30px;
+  color: #391400;
+  line-height: 32px;
+}
+
+.more {
+  font-weight: 400px;
+  font-size: 16px;
+  margin-left: 200px;
+  margin-top: 20px;
+  color: #391400a3;
+  opacity: 0.64;
+}
+
+.about-us {
+  margin-left: 200px;
+  margin-top: 50px;
+  color: #391400;
+  font-weight: 900;
+  line-height: 100%;
+  font-size: 14px;
+}
+
+.stats-card {
+  background-color: #f9e5da;
+  border: 2px solid #f3d1bf;
+  border-radius: 5px;
+  max-width: 80%;
+}
+
+.tr h2 {
+  color: #391400;
+}
+.tr p {
+  color: #391400;
+}

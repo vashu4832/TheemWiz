@@ -1,0 +1,133 @@
+.modern {
+  color: #ef6d58;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.main {
+  font-weight: 800;
+  font-size: 70px;
+  line-height: 80px;
+  letter-spacing: -2px;
+}
+
+.star {
+  margin-left: 50%;
+  margin-top: 30%;
+}
+
+.text-desc {
+  color: lightgrey;
+  font-size: 16px;
+  line-height: 32px;
+  opacity: 0.64;
+}
+
+.work {
+  background-color: #ef6d58;
+  margin-right: 10%;
+  margin-left: 15%;
+}
+
+.contact {
+  background-color: #28293e;
+  color: #fff;
+}
+
+.para {
+  color: #fff;
+  opacity: 0.64;
+  margin: 0 auto;
+}
+
+.img {
+  margin-right: 5%;
+  margin-top: 4%;
+}
+
+.meta {
+  height: 16.8;
+  width: fit-content;
+}
+
+.second {
+  display: flex;
+  background-image: url("assets/Oval.png");
+  background-repeat: no-repeat;
+  width: 50%;
+  background-position: center;
+}
+
+.laptop {
+  margin-left: 25px;
+  margin-top: 30px;
+}
+
+.girl {
+  margin-top: 33px;
+}
+
+.purple {
+  height: 300px;
+  width: 250px;
+  background-color: #b550f8;
+  border-top-left-radius: 250px;
+  border-top-right-radius: 250px;
+  margin: 100px 50px 100px;
+}
+
+.yellow {
+  height: 300px;
+  width: 246px;
+  background-color: #f7cc47;
+  border-top-left-radius: 150px;
+  border-top-right-radius: 150px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  margin-left: -250px;
+  margin-top: 300px;
+}
+
+.circle-icon {
+  width: 100px;
+  height: 100px;
+  background-color: #f26e5f;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 15%;
+}
+
+.circle-icon img {
+  width: 40%;
+}
+
+.path{
+    height: 11%;
+    margin-top: 22%;
+    margin-left: 8%;
+}
+
+.block{
+    width: 15%;
+    height: 18%;
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 80px;
+}
+
+.comb{
+    position: absolute;
+    height: 10%;
+    width: 10%;
+    margin-top: 440px;
+}
+
+.arrow{
+    position: absolute;
+    height: 5%;
+    width: 8%;
+    margin-top: 650px;
+    margin-left: 350px;
+}
