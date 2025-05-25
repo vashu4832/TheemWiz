@@ -11,6 +11,26 @@
   letter-spacing: -2px;
 }
 
+.heading-main{
+  display: flex;
+  background-image: url("assets/Star.png");
+  background-repeat: no-repeat;
+  background-size: 27%;
+  background-position: 280px -5px;
+}
+
+.head{
+  height: 250px;
+  width: 600px;
+}
+
+.head h1{
+  padding-top: 40px;
+  font-size: 72px;
+  font-weight: 800;
+  margin-top: -120px;
+}
+
 .star {
   margin-left: 50%;
   margin-top: 30%;
@@ -35,19 +55,26 @@
 }
 
 .para {
+  position: absolute;
   color: #fff;
   opacity: 0.64;
   margin: 0 auto;
+  margin-left: 25px;
+  margin-top: 120px;
 }
 
 .img {
-  margin-right: 5%;
-  margin-top: 4%;
+  width: 48px;
+  margin-left: 90px;
+  margin-top: 120px;
 }
 
 .meta {
-  height: 16.8;
-  width: fit-content;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  margin-left: 170px;
+  margin-top: -25px;
 }
 
 .second {
@@ -103,31 +130,31 @@
   width: 40%;
 }
 
-.path{
-    height: 11%;
-    margin-top: 22%;
-    margin-left: 8%;
+.path {
+  height: 11%;
+  margin-top: 22%;
+  margin-left: 8%;
 }
 
-.block{
-    width: 15%;
-    height: 18%;
-    position: absolute;
-    margin-top: 500px;
-    margin-left: 80px;
+.block {
+  width: 15%;
+  height: 18%;
+  position: absolute;
+  margin-top: 500px;
+  margin-left: 80px;
 }
 
-.comb{
-    position: absolute;
-    height: 10%;
-    width: 10%;
-    margin-top: 440px;
+.comb {
+  position: absolute;
+  height: 10%;
+  width: 10%;
+  margin-top: 440px;
 }
 
-.arrow{
-    position: absolute;
-    height: 5%;
-    width: 8%;
-    margin-top: 650px;
-    margin-left: 350px;
+.arrow {
+  position: absolute;
+  height: 5%;
+  width: 8%;
+  margin-top: 650px;
+  margin-left: 350px;
 }

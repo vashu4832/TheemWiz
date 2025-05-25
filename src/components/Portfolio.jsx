@@ -7,7 +7,7 @@ function Portfolio() {
       <div className="row header">
         <h5>PORTFOLIO</h5>
         <h2>Latest Work</h2>
-        <div className="para text-center my-5 lh-base">
+        <div className="text-center my-5 lh-base">
           <p className="d-inline-block text-white mx-4 imp">
             Show All <sup className="text-opacity-75"  >14</sup>
           </p>
