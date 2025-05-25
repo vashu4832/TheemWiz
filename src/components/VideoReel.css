@@ -11,6 +11,20 @@
     margin-top: -180px;
     margin-left: 150px;
 }
+#play{
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    margin-top: -340px;
+    margin-left: 160px;
+}
+#triangle{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    margin-top: -295px;
+    margin-left: 205px;
+}
 .play p{
     width: 200px;
 }

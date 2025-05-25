@@ -8,7 +8,8 @@ function VideoReel() {
                 <div className='col play'>
                     <img src='assets/video.png' alt='video-tab'/>
                     <img src='assets/time.png' alt='time' id='time'/>
-                    <p><i class="fa-light fa-circle-play"></i></p>
+                    <img src='assets/Oval3.png' alt='play-ring' id='play' />
+                    <img src='assets/Triangle.png' alt='teiangle-play' id='triangle' />
                 </div>
                 <div className='col desc'>
                     <h5>VIDEO REEL</h5>
