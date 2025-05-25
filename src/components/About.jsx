@@ -5,7 +5,7 @@ function Home() {
   return (
     <div className="container-fluid" style={{ backgroundColor: "#F9E5DA" }}>
       <div className="row">
-        <div className="img-main mx-5 border-bottom ">
+        <div className="img-main border-bottom ">
           <img
             src="assets/digitalside.png"
             alt="digital Side Image"

@@ -29,12 +29,12 @@
     width: 200px;
 }
 
-.desc{
+.desc-video{
     margin-top: 150px;
     margin-left: 120px;
 }
 
-.desc h5{
+.desc-video h5{
     color: #EF6D58;
     font-weight: 400;
     font-size: 16px;
@@ -43,7 +43,7 @@
     margin-bottom: 20px;
 }
 
-.desc h3{
+.desc-video h3{
     color: #391400;
     font-weight: 800;
     font-size: 40px;
@@ -51,7 +51,7 @@
     margin-bottom: 30px;
 }
 
-.desc p{
+.desc-video p{
     color: #391400A3;
     font-weight: 400;
     font-size: 16px;

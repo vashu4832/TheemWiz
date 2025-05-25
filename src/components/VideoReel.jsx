@@ -11,7 +11,7 @@ function VideoReel() {
                     <img src='assets/Oval3.png' alt='play-ring' id='play' />
                     <img src='assets/Triangle.png' alt='teiangle-play' id='triangle' />
                 </div>
-                <div className='col desc'>
+                <div className='col desc-video'>
                     <h5>VIDEO REEL</h5>
                     <h3>Unlock The Greatest<br/> Value Possible</h3>
                     <p>Design, business understanding, ability to put themselves<br/> in the merchant's shoes meant to partner.</p>
