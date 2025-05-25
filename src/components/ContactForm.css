@@ -1,5 +1,62 @@
-.hero{
-    background-image: url("assets/map.png");
-    height: 720px;
-    width: 100vw;
+.hero {
+  background-image: url("assets/map.png");
+  height: 720px;
+  width: 100vw;
+}
+.touch {
+  width: 470px;
+  height: 464px;
+  background-color: #fff;
+  position: absolute;
+  margin-top: 130px;
+  margin-left: 120px;
+}
+.touch h4 {
+  color: #391400;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  padding-top: 70px;
+  padding-left: 50px;
+}
+#email {
+  width: 374px;
+  height: 48px;
+  margin-left: 50px;
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+#option {
+  width: 374px;
+  height: 48px;
+  margin-left: 50px;
+  margin-bottom: 15px;
+}
+#text {
+  width: 374px;
+  height: 90px;
+  margin-left: 50px;
+  margin-bottom: 25px;
+}
+#butt {
+    color: #fff;
+    background-color: #EF6D58;
+    margin-left: 290px;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 100%;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.oval{
+    width: 72px;
+    margin-left: 800px;
+    margin-top: -350px;
+}
+.loc{
+    margin-left: 825px;
+    margin-top: -400px;
+    width: 24px;
+    height: 32px;
 }
