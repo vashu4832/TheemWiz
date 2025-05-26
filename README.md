@@ -40,4 +40,7 @@ Bash
 After the server starts, open your browser and go to:
 
 [http://localhost:5173](https://www.google.com/search?q=http://localhost:5173)
+
+### 🌐 Checkout Live Link Here: 
  
+[Check out the live demo](https://theem-wiz-nu.vercel.app/)
