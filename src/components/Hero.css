@@ -13,7 +13,7 @@
 
 .heading-main{
   display: flex;
-  background-image: url("assets/Star.png");
+  background-image: url("/assets/Star.png");
   background-repeat: no-repeat;
   background-size: 27%;
   background-position: 280px -5px;

@@ -1,5 +1,5 @@
 .hero {
-  background-image: url("assets/map.png");
+  background-image: url("/assets/map.png");
   height: 720px;
   width: 1520px;
 }
